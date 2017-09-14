@@ -6,7 +6,7 @@ This is a Node JS applicaition and it is using the MySql Database to store data.
 ### Pic One
 In This picture you will see the program running and the app is displaying all the intems in the invntory 
 
-![alt text](images/initailTable.png)
+![alt text](images/initialTabel.png)
 
 ### Pic Two 
 In This picture you can see that the program is running and the customer cart.....
