@@ -1,7 +1,7 @@
 # MySql-App
 
 ## Overview
-This is a Node JS application and it is using the MySql Database to store data. To run the application users' need to download the bamazoneCustomer.js file and the corresponding Node Modules for this application and connection password for My-SQL database. Below, I have attached the pictures which demonstrates the how the app runs on the console. 
+This is a Node JS application and it is using the MySql Database to store data. To run the application users' need to download the bamazoneCustomer.js file and the corresponding Node Modules for this application and connection password for My-SQL database. Basically, this App displays a table of Items that are on Sale and the users can select an item to buy and the quantity. Below, I have attached the pictures which demonstrates the how the app runs on the console. 
 
 ### Pic One
 In This picture you will see the program running and the app is displaying all the intems in the invntory 
